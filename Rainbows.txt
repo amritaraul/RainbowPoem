@@ -5,6 +5,7 @@ Indigo
 Blue
 Green
 Yellow
-OR
+Orange
+R
 
 Colors of the rainbow
