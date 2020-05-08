@@ -7,5 +7,6 @@ Green
 Yellow
 Orange
 Red
+Pink
 
 Colors of the rainbow and unicorn
