@@ -6,6 +6,6 @@ Blue
 Green
 Yellow
 Orange
-R
+Red
 
 Colors of the rainbow
